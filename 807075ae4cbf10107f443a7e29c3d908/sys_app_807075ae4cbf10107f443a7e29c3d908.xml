@@ -28,15 +28,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-10-14 19:41:07</sys_created_on>
         <sys_id>807075ae4cbf10107f443a7e29c3d908</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-15 16:01:40</sys_updated_on>
+        <sys_updated_on>2020-10-15 18:06:40</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role display_value="loaner_request_user" name="loaner_request_user">b04131ee4cbf10107f443a7e29c3d95a</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </sys_app>
 </record_update>
